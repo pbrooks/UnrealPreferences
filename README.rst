@@ -6,4 +6,4 @@
 Installing
 ==========
 
-Copy EditorLayout.ini to %LOCALAPPDATA%\UnrealEngine\%UNREALVERSION%\Saved\Config\Windows
+Copy EditorLayout.ini to %LOCALAPPDATA%\\UnrealEngine\\%UNREALVERSION%\\Saved\\Config\\Windows
